@@ -1,0 +1,6 @@
+{
+  "name": "user-preferences-development",
+  "dbconnectMsg": "Db connected ",
+  "App": "Application is listining at port",
+  "dbConnectError": "error in connecting db"
+}
